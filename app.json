@@ -1,0 +1,9 @@
+{
+  "name": "nginx-heroku",
+  "description": "Runs nginx as configured on heroku",
+  "repository": "https://github.com/csakoda/nginx-heroku",
+  "keywords": ["nginx"],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/csakoda/nginx-buildpack"
+  }
+}
